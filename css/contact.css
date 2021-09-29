@@ -9,7 +9,6 @@
     padding: 100px;
     justify-content: space-between;
     display: flex;
-    flex-wrap: wrap;
     align-content: center;
 }
 
