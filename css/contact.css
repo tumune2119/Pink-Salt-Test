@@ -91,4 +91,20 @@ p {
     padding-left: 300px;
     padding-right: 300px;
     text-align: left;
+    background-color: white;
+}
+
+.socials {
+    padding: 8px;
+}
+
+.socials:hover {
+    transition: 0.5s;
+    border-radius: 8px;
+    padding: 8px;
+    background-color: rgb(241, 241, 241);
+}
+
+.social-link {
+    text-decoration: none;
 }
