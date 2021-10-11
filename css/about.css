@@ -110,34 +110,18 @@ h3 {
     padding-right: 40px;
     border-radius: 10px;
     color: black;
-    background-color: rgb(236, 236, 236);
+    background-color: #ffe4e1;
     font-size: 20px;
 }
 
 .btn-menu:hover {
-    border: 0;
-    padding-top: 20px;
-    padding-bottom: 20px;
-    padding-left: 40px;
-    padding-right: 40px;
-    border-radius: 10px;
     color: white;
-    background-color: black;
-    transition: 0.5s;
+    background-color: #ffc0cb;
+    transition: 0.2s;
     cursor: pointer;
-    font-size: 20px;
 }
 
 .btn-menu:active {
-    border: 0;
-    padding-top: 20px;
-    padding-bottom: 20px;
-    padding-left: 40px;
-    padding-right: 40px;
-    border-radius: 10px;
     color: white;
-    background-color: black;
-    transition: 0.5s;
-    cursor: pointer;
-    font-size: 20px;
+    background-color: #ffb6c1;
 }
